@@ -1,5 +1,5 @@
 # OpenCV Advanced Tutorial
-![img](assets/banner_medium.png)
+![img](assets/banner.png)
 
 Scripts and useful functions for fast prototyping!
 [Read tutorial](https://vincent-maladiere.github.io)
